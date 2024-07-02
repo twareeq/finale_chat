@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467658023889",
+    "project_id": "finale-chat-a1d63",
+    "storage_bucket": "finale-chat-a1d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467658023889:android:5bbb63549355fd478d76f0",
+        "android_client_info": {
+          "package_name": "com.example.finale_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZBNkgSe4WaUdG5WtJCba2siPS7O9J-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
